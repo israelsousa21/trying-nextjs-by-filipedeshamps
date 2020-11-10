@@ -1,0 +1,16 @@
+{
+  "name": "trying-nextjs-by-filipedeshamps",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev":"next dev"
+  },
+  "repository": "git@github.com:israelsousa21/trying-nextjs-by-filipedeshamps.git",
+  "author": "israelsousa21 <me@israelsousa.com.br>",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^10.0.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
